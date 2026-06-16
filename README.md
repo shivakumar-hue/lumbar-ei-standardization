@@ -103,7 +103,7 @@ This project uses the **LUMINOUS database** (Belasso et al., 2020, *BMC Musculos
 | Single-mask images | 296 |
 | Dual-mask images | 45 (both LMs annotated) |
 
-> **Download:** Request access at [BMC Musculoskeletal Disorders (Belasso et al., 2020)](https://doi.org/10.1186/s12891-020-03679-1). Place the dataset at `~/LUMINOUS_Database/` with `B-mode/` and `Masks/` subdirectories.
+> **Download:** [LUMINOUS Database — IMPACT Laboratory](https://share.google/CLO5k57YLlWubbj7T)
 
 ---
 
@@ -240,7 +240,7 @@ longitudinal_analysis.png        # Multi-session EI/CSA trends
 
 ## References
 
-1. Belasso, C.J., et al. (2020). LUMINOUS: Lumbar Ultrasound Muscle ImagiNG with Open-source analysis software. *BMC Musculoskeletal Disorders*, 21(1), 1–11.
+1. 1. Belasso, C.J., et al. (2020). LUMINOUS: Lumbar Ultrasound Muscle ImagiNG with Open-source analysis software. [Dataset](https://share.google/CLO5k57YLlWubbj7T)
 2. Heckmatt, J.Z., Leeman, S., & Dubowitz, V. (1982). Ultrasound imaging in the diagnosis of muscle disease. *Journal of Pediatrics*, 101(5), 656–660.
 3. Ronneberger, O., Fischer, P., & Brox, T. (2015). U-Net: Convolutional networks for biomedical image segmentation. *MICCAI 2015*, LNCS 9351, 234–241.
 4. Bland, J.M., & Altman, D.G. (1986). Statistical methods for assessing agreement between two methods of clinical measurement. *The Lancet*, 327(8476), 307–310.
