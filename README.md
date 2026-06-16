@@ -240,7 +240,7 @@ longitudinal_analysis.png        # Multi-session EI/CSA trends
 
 ## References
 
-1. 1. Belasso, C.J., et al. (2020). LUMINOUS: Lumbar Ultrasound Muscle ImagiNG with Open-source analysis software. [Dataset](https://share.google/CLO5k57YLlWubbj7T)
+1. Belasso, C.J., et al. (2020). LUMINOUS: Lumbar Ultrasound Muscle ImagiNG with Open-source analysis software. [Dataset](https://share.google/CLO5k57YLlWubbj7T)
 2. Heckmatt, J.Z., Leeman, S., & Dubowitz, V. (1982). Ultrasound imaging in the diagnosis of muscle disease. *Journal of Pediatrics*, 101(5), 656–660.
 3. Ronneberger, O., Fischer, P., & Brox, T. (2015). U-Net: Convolutional networks for biomedical image segmentation. *MICCAI 2015*, LNCS 9351, 234–241.
 4. Bland, J.M., & Altman, D.G. (1986). Statistical methods for assessing agreement between two methods of clinical measurement. *The Lancet*, 327(8476), 307–310.
